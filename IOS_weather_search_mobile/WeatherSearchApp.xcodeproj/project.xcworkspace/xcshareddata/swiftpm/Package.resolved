@@ -1,0 +1,42 @@
+{
+  "originHash" : "184b7a2136892d673de2897eea7db3b01b6608b1cfbcad23ab5536bbc16ad7d2",
+  "pins" : [
+    {
+      "identity" : "alamofire",
+      "kind" : "remoteSourceControl",
+      "location" : "git@github.com:Alamofire/Alamofire.git",
+      "state" : {
+        "revision" : "513364f870f6bfc468f9d2ff0a95caccc10044c5",
+        "version" : "5.10.2"
+      }
+    },
+    {
+      "identity" : "swiftspinner",
+      "kind" : "remoteSourceControl",
+      "location" : "git@github.com:icanzilb/SwiftSpinner.git",
+      "state" : {
+        "revision" : "f6cfeb6f1780571bdef8bdaf924ccdb573d23e33",
+        "version" : "2.2.0"
+      }
+    },
+    {
+      "identity" : "swiftyjson",
+      "kind" : "remoteSourceControl",
+      "location" : "git@github.com:SwiftyJSON/SwiftyJSON.git",
+      "state" : {
+        "revision" : "af76cf3ef710b6ca5f8c05f3a31307d44a3c5828",
+        "version" : "5.0.2"
+      }
+    },
+    {
+      "identity" : "toast-swift",
+      "kind" : "remoteSourceControl",
+      "location" : "git@github.com:scalessec/Toast-Swift.git",
+      "state" : {
+        "revision" : "ddccd20d6fb718448d9b179c454c561653fda7d5",
+        "version" : "5.1.1"
+      }
+    }
+  ],
+  "version" : 3
+}
